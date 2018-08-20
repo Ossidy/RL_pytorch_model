@@ -17,7 +17,7 @@ python main.py
 Hyperparameters and games can be changed in the `main.py` script. A graph showing rewards during training will be save in the current directory.
 
 ## Additional models to be added in the future
-Curiosity (finished but not tuned)
+Curiosity
 
 Attention
 
